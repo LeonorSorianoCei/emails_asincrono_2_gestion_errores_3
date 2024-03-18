@@ -1,0 +1,42 @@
+.Tabs-btns-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header{
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+}
+
+.usuarioImage {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 4px solid black;
+    overflow: hidden;
+    object-fit: cover;
+  }
+
+.triage{
+    font-size: 40px;
+    margin: 0;
+}
+
+*{margin: 0;}
+
+
+.user-container{
+    text-align: start;
+}
+
+.nombreUsuario
+{
+    color: rgb(125, 125, 125);
+}
+
+.mi-estilo-de-titulo{
+    color: rgba(0, 0, 0, 0.103);
+}
+
+  
